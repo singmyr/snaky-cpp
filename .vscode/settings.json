@@ -1,0 +1,25 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "*h*h*hcstdint": "cpp",
+        "cctype": "cpp",
+        "cinttypes": "cpp",
+        "cmath": "cpp",
+        "*h*hppcomplex": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "cstddef": "cpp",
+        "*h*hpp*hpp*hpp*hpp*hpp*hppexception": "cpp",
+        "cstring": "cpp",
+        "*h*hnew": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "typeinfo": "cpp",
+        "clocale": "cpp",
+        "ctime": "cpp",
+        "*hfunctional": "cpp",
+        "*hpp*htuple": "cpp"
+    }
+}
